@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" fill="#020617"/>
+  <circle cx="1000" cy="100" r="400" fill="#059669" opacity="0.15"/>
+  <circle cx="200" cy="500" r="300" fill="#2563EB" opacity="0.1"/>
+  
+  <rect x="100" y="100" width="80" height="80" rx="20" fill="#059669"/>
+  <path d="M120 125 C120 125 130 115 140 125 C150 135 160 125 160 125 V155 H120 Z" fill="#FFFFFF"/>
+  <rect x="130" y="130" width="20" height="15" rx="3" fill="#059669"/>
+  
+  <text x="205" y="155" fill="#FFFFFF" font-family="system-ui, -apple-system, sans-serif" font-size="42" font-weight="800">KaziLink Tanzania</text>
+  <text x="205" y="185" fill="#10B981" font-family="system-ui, -apple-system, sans-serif" font-size="20" font-weight="600">Bilingual AI Employment Platform (EN / SW)</text>
+  
+  <text x="100" y="320" fill="#FFFFFF" font-family="system-ui, -apple-system, sans-serif" font-size="56" font-weight="900">Connecting Skills with</text>
+  <text x="100" y="390" fill="#10B981" font-family="system-ui, -apple-system, sans-serif" font-size="56" font-weight="900">Opportunities Across Tanzania 🇹🇿</text>
+  
+  <text x="100" y="470" fill="#94A3B8" font-family="system-ui, -apple-system, sans-serif" font-size="24">Dar es Salaam • Arusha • Mwanza • Dodoma • Zanzibar • All 31 Regions</text>
+
+  <rect x="100" y="520" width="340" height="50" rx="12" fill="#059669"/>
+  <text x="125" y="552" fill="#FFFFFF" font-family="system-ui, -apple-system, sans-serif" font-size="18" font-weight="700">Explore Jobs & Post Vacancies</text>
+</svg>

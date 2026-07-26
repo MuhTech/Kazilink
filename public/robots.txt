@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /profile
+Disallow: /dashboard
+Disallow: /_authenticated/
+
+Sitemap: https://kazilink.co.tz/sitemap.xml

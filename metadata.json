@@ -1,0 +1,6 @@
+{
+  "name": "KaziLink Tanzania",
+  "description": "Bilingual AI-powered job and employment platform connecting job seekers and employers across Tanzania.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
